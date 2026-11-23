@@ -5,3 +5,5 @@ if [ "$#" -eq 1 ]; then
 else
     echo "need name as param"
 fi
+
+echo "test"
